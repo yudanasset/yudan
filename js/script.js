@@ -1,6 +1,6 @@
 /*----------------------------------------------------------------
 
-	Template Name: Lewis - Creative Portfolio HTML Template 
+	Template Name: Y - Yudan Asset Management 
 	Version: 1.0
 
 	-------------------------------------------------------------------------------*/
